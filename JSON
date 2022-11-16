@@ -1,0 +1,35 @@
+{
+    "skolēni": [
+{   "name": "Alex",
+    "surname": "Bērziņš",
+    "class": "10.c",
+    "school": "Rīgas skola",
+    "gradelvl": 10,
+    "gradename": "10.b"
+},
+{   "name": "Anna",
+    "surname": "Rock",
+    "class": "10.b",
+    "school": "Olaines 1. vidusskola",
+    "gradelvl": 10,
+    "grade": [
+        {
+            "subject": "Programming",
+            "date": "15/11/2022",
+            "value": 8
+        },
+        {
+            "subject": "Chemistry",
+            "date": "16/11/2022",
+            "value": 10
+        },
+        {
+            "subject": "Programming",
+            "date": "05/10/2022",
+            "value": 
+
+        }
+    ]
+}
+    ]
+}
